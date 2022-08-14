@@ -1,4 +1,4 @@
-# trigonometry
+# Trigonometry
 Trigonometry video series code
 
 Library used: Manim (Community Edition) <br />
